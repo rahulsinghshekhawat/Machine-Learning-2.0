@@ -1,0 +1,2 @@
+First dataset(advertising) doesn't have much correlation between indepedent varibles... but the second one have some
+we've used OLS model to fit the regression to get P-value, std-error, R2, adjusted R2 at the same place
